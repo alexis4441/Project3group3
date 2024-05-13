@@ -8,7 +8,7 @@ Visualization 1 (bubble chart)- select the dropdown bar to select different regi
 Visualization 2 (map)- toggle with the three different dropdown bars to to see visually on a map wildfires by country per specific weeks of the year throughout the years 2012-2022. 
 
 
-Ethical Conciderations:
+Ethical Considerations:
   The ethical considerations used in this project revolve around utilizing this information in a safe way both for individuals and the environment. Some of this information obtained from this project can used to harm people or property, but the main goal of this presentation is for educational purposes. Additionally, we can use this data to implement provisions when it comes to fire safety. 
   
 References:
